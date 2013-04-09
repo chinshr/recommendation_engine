@@ -120,6 +120,7 @@ Contact
 =======
 
 alex@madebymany.co.uk
+
 jfesslmeier@gmail.com
 
 Copyright (c) 2008-2013 released under the MIT license
